@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "markdown",
+  "name": "nh3-mag-user-guide",
   "builds": [
     {
       "src": "*.css",
@@ -10,12 +10,12 @@
       "src": "**/*.md",
       "use": "@now/md",
       "config": {
-        "title": "Markdown Example",
-        "language": "en",
+        "title": "NH3 Mag - Guide Utilisateur",
+        "language": "fr",
         "meta": [
           {
             "name": "description",
-            "content": "Example markdown builder deployed to ZEIT NOW"
+            "content": "Guide d'utilisation du site WordPress L'Inédit"
           }
         ],
         "css": "/style.css"
