@@ -10,7 +10,7 @@ Procédures, pas-à-pas et documentation sur la gestion et l'utilisation des dif
 
 ---
 
-[Gestion des catégories](./Gestion-des-cat-gories-cb6557a3-7242-4615-bc92-5b6cd023a0ea.md)
+[Gestion des catégories](./categories/index.md)
 
 [Traduction du site](./Traduction-du-site-14e23c9e-47e6-4c5d-a855-56566a85deec.md)
 
