@@ -10,14 +10,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | absolute_url }}" />
+  <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
+  <!-- <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | absolute_url }}" /> -->
 </head>
 
 <body>
   <section class="page-header">
     <h1 class="project-name">
-      <img src="{{ '/assets/images/logo_min.png' | absolute_url }}" alt="Ionicitude Logo" id="logo">
+      <!-- <img src="{{ '/assets/images/logo_min.png' | absolute_url }}" alt="Ionicitude Logo" id="logo"> -->
       {{ site.title | default: site.github.repository_name }} {{ page.version }}
     </h1>
     <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
@@ -28,24 +28,7 @@
   <section class="main-content">
     <div id="wrapper">
       <aside>
-        {% unless page.home == false %}
-        <h1><a href="{{ '/' | absolute_url }}">Home</a></h1>
-        {% endunless %}
-        {% if page.lib %}
-        <h1>{{ site.data.versions.title }}</h1>
-        <ul id="verlist">
-          {% assign verlist = site.data.versions.list | sort: 'title' | reverse %}
-          {% for version in verlist %}
-          <li><a href="{{ version.url | absolute_url }}">{{ version.title }}</a></li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-        {% unless page.toc == false %}
-        <div id="toc">
-          {% capture sidebar %}{% include_relative plan.md %}{% endcapture %}
-          {{ sidebar | markdownify }}
-        </div>
-        {% endunless %}
+        {% include sidebar.html %}
       </aside>
       <main>
         {{ content }}
