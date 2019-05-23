@@ -2,28 +2,28 @@
 
 <h2>Gestion du CMS</h2>
 <ul>
-  <li>Gestion des catégories</li>
+  <li><a href="{{ '/categories' | absolute_url }}">Gestion des catégories</a></li>
   <ul>
-    <li>Ajouter une nouvelle catégorie</li>
-    <li>Ajouter la nouvelle catégorie aux traductions</li>
-    <li>Traduire le nom de la nouvelle catégorie</li>
+    <li><a href="{{ '/categories/new-category' | absolute_url }}">Ajouter une nouvelle catégorie</a></li>
+    <li><a href="{{ '/categories/category-to-translate' | absolute_url }}">Ajouter la nouvelle catégorie aux traductions</a></li>
+    <li><a href="{{ '/categories/translate-category-name' | absolute_url }}">Traduire le nom de la nouvelle catégorie</a></li>
   </ul>
-  <li>Traduction du site</li>
+  <li><a href="{{ '/translation' | absolute_url }}">Traduction du site</a></li>
   <ul>
-    <li>Traduire les textes</li>
+    <li><a href="{{ '/translation/translate-texts' | absolute_url }}">Traduire les textes</a></li>
   </ul>
 </ul>
 
 <h2>Utilisation du CMS</h2>
 <ul>
-  <li>Les articles...</li>
+  <li><a href="{{ '/posts' | absolute_url }}">Les articles...</a></li>
   <ul>
-    <li>Rédiger un article</li>
-    <li>Traduire un article existant</li>
+    <li><a href="{{ '/posts/new-post' | absolute_url }}">Rédiger un article</a></li>
+    <li><a href="{{ '/posts/translate-post' | absolute_url }}">Traduire un article existant</a></li>
   </ul>
-  <li>Les blocs...</li>
+  <li><a href="{{ '/blocks' | absolute_url }}">Les blocs...</a></li>
   <ul>
-    <li>Les blocs d'intégration de document</li>
-    <li>Le bloc de liens "Sur le même sujet"</li>
+    <li><a href="{{ '/blocks/integration' | absolute_url }}">Les blocs d'intégration de document</a></li>
+    <li><a href="{{ '/blocks/on-topic' | absolute_url }}">Le bloc de liens "Sur le même sujet"</a></li>
   </ul>
 </ul>
