@@ -24,18 +24,18 @@ Ainsi, s'il n'existe qu'un seul article pour une catégorie et qu'il est écrit 
 
 > Ci-dessous, vous trouverez trois procédures qui devront être suivies à chaque fois que vous souhaitez ajouter une nouvelle catégorie au site *(ce qui ne devrait pas être très courant)*
 
-[Ajouter une nouvelle catégorie](./Ajouter-une-nouvelle-cat-gorie-5e7a74b4-140c-4b0d-b4fa-30a5b5551e22.md)
+[Ajouter une nouvelle catégorie](./new-category)
 
 Cette procédure décrit les étapes permettant d'ajouter une nouvelle catégorie d'articles au site.
 
 ---
 
-[Ajouter la nouvelle catégorie aux traductions](./Ajouter-la-nouvelle-cat-gorie-aux-traductions-70445333-703a-483d-90dc-34c077aeda6d.md)
+[Ajouter la nouvelle catégorie aux traductions](./category-to-translate)
 
 Cette procédure décrit les étapes permettant de rendre le nom de la nouvelle catégorie traduisible dans d'autres langues.
 
 ---
 
-[Traduire le nom de la nouvelle catégorie](./Traduire-le-nom-de-la-nouvelle-cat-gorie-e072a5a7-7b14-4a88-9e65-15a57c9dd8c2.md)
+[Traduire le nom de la nouvelle catégorie](./translate-category-name)
 
 Cette procédure décrit les étapes à suivre pour traduire le nom d'une catégorie dans une langue.

@@ -6,7 +6,7 @@
 
 1. Dans l'administration du site, accéder à la page **Loco Translate > Extensions**
 
-    ![](Untitled-3a350814-0a0b-4f43-a31b-f452be9149cb.png)
+    ![](./img/loco-menu.png)
 
     ---
 
@@ -16,17 +16,17 @@
 
 3. Sur la nouvelle page qui s'affiche, cliquer sur le lien **Modifier le modèle**
 
-    ![](Untitled-89c50bb8-4819-4d7d-95b3-8223908d88c8.png)
+    ![](./img/update-model.png)
 
-    Le lien Modifier le modèle
+    _Le lien **Modifier le modèle**_
 
     ---
 
 4. Sur la page suivante, cliquer sur le bouton **Ajouter**
 
-    ![](Untitled-6c40ba7c-60de-40dc-bf2e-bd631f64f11c.png)
+    ![](./img/add-text.png)
 
-    Le bouton Ajouter
+    _Le bouton **Ajouter**_
 
     **ATTENTION !** Ne **JAMAIS** cliquer sur le bouton **Synchroniser** lors de la modification du modèle **pour l'extension NH3 Mag - Translated Custom Content** !
     **Ceci supprimerait toutes les entrées créées**.
@@ -39,26 +39,27 @@
 
     *Si nécessaire, il est possible d'ajouter un commentaire dans le cadre prévu à cet effet, afin d'indiquer que cette entrée désigne le nom d'une catégorie d'articles.*
 
-    ![](2019-04-02-14-47-nh3-mag-4dac9131-8294-455b-ad5d-39e2b18da495.heig-vd.ch.png)
+    ![](./img/text-translated.png)
 
-    Le "Texte source" doit être le nom anglais exact de la catégorie
+    _Le_ "Texte source" _doit être le nom anglais exact de la catégorie_
 
     ---
 
-6. L'entrée apparaît désormais avec un petit icône d'étoile ⭐signifiant qu'il s'agit d'une nouveauté qui n'a pas encore été enregistrée.
-Il faut maintenant **sauver** les modifications grâce au bouton 💾 **Enregistrer.**
+6. L'entrée apparaît désormais avec un petit icône d'étoile ⭐ signifiant qu'il s'agit d'une nouveauté qui n'a pas encore été enregistrée.
 
-    ![](Untitled-f2c95576-766d-4626-8244-fbf57a3a1c83.png)
+    Il faut maintenant **sauver** les modifications grâce au bouton 💾 **Enregistrer.**
 
-    Cliquer sur le bouton bleu Enregistrer pour sauver les modifications
+    ![](./img/save-button.png)
+
+    _Cliquer sur le bouton bleu **Enregistrer** pour sauver les modifications_
 
     ---
 
 7. Un message de validation, tel que celui ci-dessous, ainsi que la disparition de l'étoile ⭐à côté de l'entrée indiquent que les modifications ont bien été sauvegardées.
 
-    ![](2019-04-02-14-53-nh3-mag-65879f98-e495-48ff-a947-f2d6a27406cd.heig-vd.ch.png)
+    ![](./img/success-msg.png)
 
-    Message de validation
+    _Message de validation_
 
     ---
 

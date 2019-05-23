@@ -10,14 +10,14 @@ Procédures, pas-à-pas et documentation sur la gestion et l'utilisation des dif
 
 ---
 
-[Gestion des catégories](./categories/index.md)
+[Gestion des catégories](./categories)
 
-[Traduction du site](./Traduction-du-site-14e23c9e-47e6-4c5d-a855-56566a85deec.md)
+[Traduction du site](./translation)
 
 ## Utilisation du CMS
 
 ---
 
-[Les articles...](./Les-articles-b078487f-fc4b-42b6-9a81-af975b7b7c87.md)
+[Les articles...](./posts)
 
-[Les blocs...](./Les-blocs-be53310d-abfb-496d-900d-cd1ff1775ff8.md)
+[Les blocs...](./blocks)
