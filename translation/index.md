@@ -10,7 +10,7 @@ En revanche, grâce au plugin **Loco Translate**, vous avez la maîtrise des tra
 
 > La suite de ce document présuppose que vous soyez connecté à l'interface d'administration du site de L'Inédit (lien ci-dessous).
 
-[Se connecter ‹ NH3 - WordPress](https://mag.notrehistoire.ch/wp-admin)
+[L'Inédit - Administration](https://mag.notrehistoire.ch/wp-admin)
 
 # Emplacements des éléments à traduire
 
@@ -20,17 +20,17 @@ En revanche, grâce au plugin **Loco Translate**, vous avez la maîtrise des tra
 
 Pour traduire les textes affichés sur le site dans les blocks NH3 (par exemple "Sur le même sujet"), accéder à la page **Loco Translate > Extensions**, puis cliquer sur l'extension **NH3 Mag - Blocks**.
 
-![](Untitled-3a350814-0a0b-4f43-a31b-f452be9149cb.png)
+![](./img/loco-menu-plugin.png)
 
-![](Untitled-f5c4ffd5-5981-4da5-8663-36fc87e1f466.png)
+![](./img/plugin-link.png)
 
 ### Traduction des textes du thème NH3
 
 Pour traduire les textes affichés sur le site, accéder à la page **Loco Translate > Thèmes**, puis cliquer sur le thème **NH3 Mag WordPress Theme.**
 
-![](Untitled-a16a9677-dbf1-4b0d-b094-05dc0fc607fd.png)
+![](./img/loco-menu-theme.png)
 
-![](Untitled-5a641caa-d4cb-4041-8be2-703e593fa0d0.png)
+![](./img/theme-link.png)
 
 # F.A.Q.
 
@@ -44,4 +44,4 @@ Pour traduire les textes affichés sur le site, accéder à la page **Loco Trans
 
 > Quel que soit l'emplacement, la procédure pour traduire les textes est identiques :
 
-[Traduire les textes](./Traduire-les-textes-4951bc23-9319-4e1e-9380-fbef9a88d76d.md)
+[Traduire les textes](./translate-texts)

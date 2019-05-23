@@ -7,21 +7,21 @@ Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
 
 1. Dans la liste des langues à disposition, cliquer sur la langue pour laquelle le contenu devrait être traduit (*dans notre exemple, il s'agira du Français*) :
 
-    ![](Untitled-a6c0d5a6-7a76-4337-901b-a4f7d2571026.png)
+    ![](./img/lang-select.png)
 
-    Cliquer sur le nom de la langue
+    _Cliquer sur le nom de la langue_
 
     ---
 
 2. Si de nouveaux textes à traduire ont été rajoutés aux thèmes, ou que certains ont été supprimés, un message d'information tel que ci-dessous devrait s'afficher :
 
-    ![](Untitled-c5087c53-a691-4d0b-914c-e36a6dbea417.png)
+    ![](./img/sync-msg.png)
 
     **Dans ce cas**, mettre à jour les traductions en cliquant sur le bouton **Synchroniser** :
 
-    ![](Untitled-8cc41c81-50a8-46ad-bb42-a47299842564.png)
+    ![](./img/sync-btn.png)
 
-    Cliquer sur **Synchroniser** pour mettre à jour les traductions par rapport au modèle
+    _Cliquer sur **Synchroniser** pour mettre à jour les traductions par rapport au modèle_
 
     ---
 
@@ -29,9 +29,9 @@ Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
 
     *Les autres entrées ont déjà précédemment été traduites ; il est tout à fait possible de modifier ces traductions si besoin.*
 
-    ![](2019-05-21-11-20-mag-6a348aca-ba08-4b9f-8657-acff91553956.notrehistoire.ch.png)
+    ![](./img/untranslated-entries.png)
 
-    Deux entrées ne sont pas traduites
+    _Deux entrées ne sont pas traduites_
 
     Pour sélectionner l'entrée à traduire, cliquer sur son nom.
 
@@ -43,7 +43,7 @@ Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
     - **(3)** Il peut arriver que des commentaires ait été écrits pour ce texte. Si c'est le cas, ils apparaîtront ici
     - **(4)** Saisir ici le texte traduit
 
-    ![](Inked2019-05-21-11-27-mag-cb55ca1e-4668-4c19-8a86-47a6bbed248c.notrehistoire.ch_LI.jpg)
+    ![](./img/translation-screen.jpg)
 
     ---
 
@@ -63,9 +63,9 @@ Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
 
 5. Dans la zone (4), saisir le texte traduit :
 
-    ![](2019-05-21-11-48-mag-5b9bb88c-4f57-4b7d-979b-64659e9687cf.notrehistoire.ch.png)
+    ![](./img/placeholder-translation.png)
 
-    Noter la présence du `%s`
+    _Noter la présence du `%s`_
 
     ---
 
@@ -75,21 +75,21 @@ Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
 
 7. Une ⭐ étoile devrait apparaître à côté du nom des entrées modifiées dans la liste des textes à traduire. Cela signifie que les modifications ne sont pas encore enregistrées.
 
-    ![](2019-05-21-11-54-mag-4fc12b1e-3e99-4a55-a1ce-25d62dc417d6.notrehistoire.ch.png)
+    ![](./img/updated-entries.png)
 
-    Trois entrées ont été modifiées ici
+    _Trois entrées ont été modifiées ici_
 
     ---
 
 8. Pour sauver les traductions effectuées, cliquer sur le bouton **Enregistrer** :
 
-    ![](2019-05-21-11-55-mag-37ac4a0c-ef7b-4762-b172-95f37464909f.notrehistoire.ch.png)
+    ![](./img/save-btn.png)
 
     ---
 
 9. La présence de ce message et la disparition des ⭐ étoiles indiquent que les modifications ont été sauvegardées
 
-    ![](2019-05-21-11-56-mag-478a77aa-0c99-4864-8af5-f77b021f6511.notrehistoire.ch.png)
+    ![](./img/success-msg.png)
 
     ---
 
