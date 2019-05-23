@@ -1,6 +1,6 @@
 # Traduction du site
 
-Comment traduire les textes affichés sur le site public
+_Comment traduire les textes affichés sur le site public_
 
 Le site de L'Inédit comporte un certain nombre de textes "statiques", tels que les éléments de menu ou de navigation, dont le contenu doit être différent selon la langue dans laquelle le site est lui-même affiché.
 

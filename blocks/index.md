@@ -1,6 +1,6 @@
 # Les blocs...
 
-Comment utiliser les blocs spécifiques aux besoins NH3
+_Comment utiliser les blocs spécifiques aux besoins NH3_
 
 [Les blocs d'intégration de document](./integration)
 

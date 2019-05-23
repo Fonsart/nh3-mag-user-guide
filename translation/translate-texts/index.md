@@ -1,7 +1,8 @@
 # Traduire les textes
 
-> Pour ce guide, nous allons prendre comme exemple la traduction des éléments du thème
-Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
+> Pour ce guide, nous allons prendre comme exemple la traduction des éléments du thème.
+>
+> Nous supposons que vous êtes donc déjà sur la page des traductions du thème.
 
 ---
 

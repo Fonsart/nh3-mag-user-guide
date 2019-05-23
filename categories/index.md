@@ -1,6 +1,6 @@
 # Gestion des catégories
 
-Comment gérer les différentes catégories d'articles et leurs traductions dans les différentes langues.
+_Comment gérer les différentes catégories d'articles et leurs traductions dans les différentes langues._
 
 > La suite de ce document présuppose que vous soyez connecté à l'interface d'administration du site de L'Inédit (lien ci-dessous).
 
