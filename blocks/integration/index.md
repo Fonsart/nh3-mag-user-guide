@@ -1,5 +1,11 @@
 # Les blocs d'intégration de document
 
+Il existe trois blocs permettant d'intégrer un document depuis une plate-forme NH3 :
+
+* **Audio document** - Pour intégrer des documents audio
+* **Photo document** - Pour intégrer des photos
+* **Video document** - Pour intégrer des vidéos
+
 > Bien que ce guide utilise l'exemple du **Photo document**, le fonctionnement des autres blocs, **Video document** et **Audio document**, est strictement identique
 
 # Ajouter le bloc
@@ -10,9 +16,9 @@ Une fois ajouté à l'article, le bloc affiche un champ de saisie :
 
 Ce champ attend une adresse d'un document provenant d'une des trois plateformes NH3 :
 
-- `https://dev2.notrehistoire.ch`
-- `https://dev.lanostrastoria.ch`
-- `https://dev.nossaistorgia.ch`
+* `https://dev2.notrehistoire.ch`
+* `https://dev.lanostrastoria.ch`
+* `https://dev.nossaistorgia.ch`
 
 Pour trouver l'adresse, naviguer sur la plateforme de son choix vers la page affichant le document de son choix ; l'adresse est celle affichée dans la barre d'adresse du navigateur :
 
@@ -26,15 +32,15 @@ Il suffit de la copier puis de la coller dans le champ de saisie du bloc pour qu
 
 Le bloc indique lorsque la saisie effectuée est erronée :
 
-- Si l'adresse saisie n'est pas une adresse valide
+* Si l'adresse saisie n'est pas une adresse valide
 
     ![](./img/invalid-url.png)
 
-- Si l'adresse saisie n'est pas l'adresse d'un document du type choisit, ou ne cible pas un document existant
+* Si l'adresse saisie n'est pas l'adresse d'un document du type choisit, ou ne cible pas un document existant
 
     ![](./img/not-found-url.png)
 
-- Si aucune adresse n'a été saisie
+* Si aucune adresse n'a été saisie
 
     ![](./img/empty-url.png)
 

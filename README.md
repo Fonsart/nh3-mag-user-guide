@@ -3,7 +3,7 @@ Source code for the NH3 Mag WordPress site user guide.
 
 # Deployement
 
-This repos is supposed to be deployed using [GitHub Pages][1].
+This repo is supposed to be deployed using [GitHub Pages][1].
 
 To do so, you need access to the **Settings** tab in the repo.
 
