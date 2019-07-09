@@ -12,6 +12,8 @@ _Procédures, pas-à-pas et documentation sur la gestion et l'utilisation des di
 
 [Gestion des catégories](./categories)
 
+[Gestion des étiquettes](./tags)
+
 [Traduction du site](./translation)
 
 ## Utilisation du CMS
